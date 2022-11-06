@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DAO-Guard/static/css/main.78ddaf9d.chunk.css",
+    "main.js": "/DAO-Guard/static/js/main.fd312478.chunk.js",
+    "main.js.map": "/DAO-Guard/static/js/main.fd312478.chunk.js.map",
+    "runtime-main.js": "/DAO-Guard/static/js/runtime-main.dd4b2d2d.js",
+    "runtime-main.js.map": "/DAO-Guard/static/js/runtime-main.dd4b2d2d.js.map",
+    "static/js/2.c0f47e93.chunk.js": "/DAO-Guard/static/js/2.c0f47e93.chunk.js",
+    "static/js/2.c0f47e93.chunk.js.map": "/DAO-Guard/static/js/2.c0f47e93.chunk.js.map",
+    "static/js/3.8a536142.chunk.js": "/DAO-Guard/static/js/3.8a536142.chunk.js",
+    "static/js/3.8a536142.chunk.js.map": "/DAO-Guard/static/js/3.8a536142.chunk.js.map",
+    "index.html": "/DAO-Guard/index.html",
+    "static/css/main.78ddaf9d.chunk.css.map": "/DAO-Guard/static/css/main.78ddaf9d.chunk.css.map",
+    "static/js/2.c0f47e93.chunk.js.LICENSE.txt": "/DAO-Guard/static/js/2.c0f47e93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd4b2d2d.js",
+    "static/js/2.c0f47e93.chunk.js",
+    "static/css/main.78ddaf9d.chunk.css",
+    "static/js/main.fd312478.chunk.js"
+  ]
+}
