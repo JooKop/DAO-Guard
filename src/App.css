@@ -1,0 +1,168 @@
+html, body {
+  background-color: white;
+  margin:0px;
+  padding: 0px;
+  height: 100%;
+}
+
+div.page {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  min-height: 100%;
+}
+
+div.navBar {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 100%;
+  width: 45%;
+  align-items:flex-end;
+  justify-content: center;
+}
+
+div.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(240, 240, 240);
+	height: 100%;
+  min-height: 100%;
+  width: 55%;
+  padding-top: 35px;
+}
+
+p.choosePerson {
+  font-size: 22px;
+  font-weight: 250;
+  margin-top: -54px;
+}
+
+div.peopleList {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: right; 
+}
+
+div.personBox {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  margin:0px;
+  width: 100%;
+  margin-left: 0px;
+}
+
+div.personContainer {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  margin: 0px;
+  margin-left: 80px;
+  padding: 0px;
+  border-bottom: 2px solid lightgray;
+  padding-bottom: 20px;
+}
+
+div.avatarPic {
+  display: flex;
+  align-items:flex-end;
+  justify-content: center;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  margin-left: 0px;
+  margin-right: 25px;
+}
+
+div.personInfo {
+  display: flex;
+  flex-direction: column;
+  justify-items:  center;
+}
+
+div.personBox:hover {
+  background-color: rgb(240, 240, 240);
+}
+
+p {
+  font-family: proxima-nova,sans-serif;
+  font-style: normal;
+}
+
+p.personName {
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom:0px;
+  padding-bottom: 0px;
+}
+
+p.contentName {
+  font-size: 35px;
+  margin:0px;
+  margin-top: 15px;
+}
+
+p.contentId {
+  color: darkgray;
+  margin: 0px;
+}
+
+p.contentPlanet {
+  font-size: 18px;
+  font-weight: 200;
+  margin-bottom: 10px;
+  margin-top: 40px;
+}
+
+p.contentProof {
+  font-size: 18px;
+  font-weight: 200;
+  margin-top: 40px;
+}
+
+p.personAddr {
+  margin:0px;
+  padding:0px;
+  color: darkgray;
+}
+
+img.logo {
+  width: 300px;
+  margin-right: 383px;
+  margin-bottom: 50px;
+}
+
+img.avatar {
+  width: 140px;
+  height: 50px;
+}
+
+img.bigavatar {
+  width: 170px;
+  height: 170px;
+}
+
+img.planetImg {
+  margin-left: 50px;
+}
+
+p.proofOfLife {
+  font-weight: 400;
+  font-size: 50px;
+  letter-spacing: 3px;
+  margin-top: 50px;
+}
+
+div.checks {
+  display: flex;
+  flex-direction: row;
+}
+
+div.checks img {
+  margin: 15px;
+  margin-top: -15px;
+}
